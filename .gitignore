@@ -58,3 +58,4 @@ coverage-final.json
 
 # Cache
 .cache/
+.next/
