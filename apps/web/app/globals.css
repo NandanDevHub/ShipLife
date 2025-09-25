@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --bg: #0b0b0c; --fg: #f5f7fb; }
+html, body, #__next { height: 100%; }
+body { @apply bg-gray-50 text-gray-900 dark:bg-zinc-950 dark:text-zinc-100; }
